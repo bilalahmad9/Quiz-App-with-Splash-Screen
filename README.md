@@ -15,5 +15,7 @@ For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+this is the screen shot of the Splash Screen in Quiz App.
 ![Screenshot_20201114-140149](https://user-images.githubusercontent.com/74393555/99143815-5ba3d680-2682-11eb-87ec-2a909e2bdf80.png)
+
 ![Screenshot_20201114-140153](https://user-images.githubusercontent.com/74393555/99143847-a58cbc80-2682-11eb-9855-9ca8e0476317.png)
